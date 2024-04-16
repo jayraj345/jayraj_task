@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:task_test/dashboard/model/image_model.dart';
 import 'package:task_test/dashboard/view/image_preview.dart';
